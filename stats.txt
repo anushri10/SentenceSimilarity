@@ -1,0 +1,3 @@
+Word embedding loaded in 14.061431 secs.
+Similarity matrix initialized in 0.000218 secs.
+Similarity matrix populated in 3.716092 secs. 
